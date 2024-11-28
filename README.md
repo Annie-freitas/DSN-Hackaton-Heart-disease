@@ -1,4 +1,5 @@
 Heart Disease Prediction - DSN Competition
+
 This repository contains my submission for the Heart Disease Machine Learning Competition organized by Data Science Nigeria (DSN). The goal is to develop a predictive model that accurately determines the likelihood of heart disease based on clinical and demographic data.
 
 📂 Project Structure
@@ -22,7 +23,7 @@ Evaluation Metrics:
 Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 
 🚀 Key Insights
-The Random Forest model achieved the highest ROC-AUC of X.XX, making it the best-performing model.
+The Random Forest model achieved the highest ROC-AUC of 0.88, making it the best-performing model.
 Key features influencing predictions: age, cholesterol level, and maximum heart rate achieved.
 
 
